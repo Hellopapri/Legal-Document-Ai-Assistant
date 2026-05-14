@@ -170,5 +170,5 @@ The system evaluates:
 
 ## 👩‍💻 Developed By
 
-### Papri ✦
+### Papri 
 Data Analyst & AI Engineer
