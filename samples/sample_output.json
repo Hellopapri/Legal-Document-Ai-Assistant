@@ -1,0 +1,21 @@
+{
+  "document_name": "sample_legal_note.txt",
+  "structured_data": {
+    "document_type": "Legal Document",
+    "parties": ["Northwind Holdings LLC", "Harbor View Consulting Inc."],
+    "dates": ["03/14/2026", "April 2, 2026"],
+    "key_facts": ["Legal Intake Note", "This note summarizes a dispute between Northwind Holdings LLC and Harbor View Consulting Inc."],
+    "obligations": ["Harbor View was required to deliver the revised compliance memo within ten business days."],
+    "risks": ["Northwind stated that delays could create termination risk and potential damages if the report was not completed."],
+    "unclear_sections": ["The document is partially unclear around responsibility for final approval and escalation procedures."],
+    "source": "mock"
+  },
+  "evaluation": {
+    "number_of_extracted_characters": 512,
+    "number_of_chunks": 2,
+    "number_of_retrieved_evidence_passages": 2,
+    "draft_contains_evidence_references": true,
+    "unsupported_claim_warning": true,
+    "simple_groundedness_score": 0.9
+  }
+}
